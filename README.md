@@ -3,7 +3,7 @@
 1. [Introduction](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-introduction)
 2. [Tech Stack](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-tech-stack)
 3. [Features](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-features)
-4. [Quick Start](#https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-quick-start)
+4. [Quick Start](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-quick-start)
 5. [Screenshots](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-screenshots)
 6. [Deployment](https://github.com/KaneDenzil/react-native-expo-habit-tracker?tab=readme-ov-file#-deployment)
 
